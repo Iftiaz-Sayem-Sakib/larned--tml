@@ -1,0 +1,44 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: black;
+    color: white;
+    margin: 5%;
+}
+
+.head {
+    font-size: 45px;
+}
+
+.youjerchip {
+    font-size: 35px;
+}
+
+span {
+    color: rgb(236, 108, 61);
+}
+
+.know-more {
+    padding: 8px;
+    font-size: 15px;
+    border-radius: 8px;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+    font-size: larger;
+
+}
+
+.first {
+    display: flex;
+}
+
+.helf {
+    width: 49%;
+}
+
+.helf img {
+    width: 100%;
+    margin-left: 40px;
+}
